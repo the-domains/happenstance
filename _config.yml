@@ -1,0 +1,14 @@
+layout_spectrum: 0.4135909473989159
+typography_spectrum: 0.15260817646048963
+color:
+  brandStrength: 0.5485776420682669
+  lightness: 0.7360998939257115
+  saturation: 0.020278857555240393
+  rhythmicContrast: 0.5565322260372341
+  brandColors:
+    - '#6C6E58'
+    - '#3E423A'
+    - '#417378'
+    - '#A4CFBE'
+    - '#F4F7D9'
+name: happenstance
