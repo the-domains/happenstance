@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-06T21:47:35.258Z'
+datePublished: '2016-06-06T21:47:37.601Z'
 sourcePath: >-
   _posts/2016-04-16-7-spring-road-trips-to-the-most-colorful-flowers-across-amer.md
 inFeed: true
@@ -18,7 +18,7 @@ keywords:
   - route
 related: []
 author: []
-dateModified: '2016-06-06T21:47:34.341Z'
+dateModified: '2016-06-06T21:47:36.338Z'
 title: 7 spring road trips to the most colorful flowers across America
 app_links: []
 publisher:
