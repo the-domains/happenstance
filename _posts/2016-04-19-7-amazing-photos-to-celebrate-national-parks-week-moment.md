@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-06T21:47:35.258Z'
+datePublished: '2016-06-06T21:47:37.595Z'
 sourcePath: _posts/2016-04-19-7-amazing-photos-to-celebrate-national-parks-week-moment.md
 inFeed: true
 isBasedOnUrl: >-
@@ -38,7 +38,7 @@ author:
   - name: isabelthottam@gmail.com
     url: 'http://momentlens.co/momentist/author/isabelthottam-gmail-com/'
     avatar: {}
-dateModified: '2016-06-06T21:47:34.313Z'
+dateModified: '2016-06-06T21:47:35.921Z'
 title: 7 Amazing Photos To Celebrate National Parks Week - Moment
 app_links: []
 publisher:
